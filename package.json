@@ -27,7 +27,7 @@
     "react-hamburger-menu": "^1.1.1",
     "react-helmet": "^5.2.0",
     "react-powerplug": "^1.0.0-rc.0",
-    "sharp": "^0.20.5",
+    "sharp": "^0.30.5",
     "uuid": "^3.2.1"
   },
   "keywords": [
